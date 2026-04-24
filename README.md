@@ -2,19 +2,6 @@
 
 A Full-Stack Developer who loves building scalable systems and exploring modern technologies
 
-## Backend Development
-
-* **Language & Framework:** PHP (CodeIgniter), JavaScript (Node.js), ReactJS
-* **Databases:** PostgreSQL, MySQL
-* **Protocols:** REST API, WebSocket
-* **DevOps:** Docker, CI/CD
-
-## Architecture & Design
-
-* **Event-Driven, Microservices Architecture**
-* **Distributed Systems with PHP & Node.js**
-* **Domain-Driven Design (DDD) Principles**
-
 ## 🛠️ Tech Stack
 
 <p align="left">
