@@ -5,7 +5,7 @@ A Full-Stack Developer who loves building scalable systems and exploring modern 
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,js,nodejs,react,postgresql,mysql,docker,git,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,react,nextjs,vue,nuxtjs,cs,dotnet,postgresql,mysql,docker,git,linux,nginx" />
 </p>
 ---
 
